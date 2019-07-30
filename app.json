@@ -6,8 +6,8 @@
 	  "environments": {
 	    "test": {
 	      "scripts": {
-	        "test-setup": "echo "fake test-setup" && exit 0",
-	        "test": "echo "fake test" && exit 0"
+	        "test-setup": "echo fake-test-setup && exit 0",
+	        "test": "echo fake-test && exit 0"
 	      }
 	    }
 	  }
